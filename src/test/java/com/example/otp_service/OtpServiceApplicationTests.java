@@ -1,4 +1,4 @@
-package com.example.otpservice;
+package com.example.otp_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
